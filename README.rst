@@ -13,3 +13,10 @@ os_gnocchi Role
       roles:
         - { role: "os_gnocchi" }
 
+This repository is no longer maintained. 
+----------------------------------------
+
+This work was imported into the OpenStack namespace as part of OpenStack-Ansible.
+
+Authoritative: http://git.openstack.org/cgit/openstack/openstack-ansible-os_gnocchi
+Mirror: https://github.com/openstack/openstack-ansible-os_gnocchi
